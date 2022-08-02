@@ -1,0 +1,7 @@
+admin : 
+email : admin@gmail.com
+password : password
+
+pelanggan :
+email : bayu@gmail.com
+password : bayu1234 
